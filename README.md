@@ -2,7 +2,7 @@
 #### Decision Scientist
 👋 I'm Pramod Reddy, a Decision Scientist passionate about the world of data science and data analysis. With a keen eye for insights and a knack for leveraging various technologies, I embark on a journey to explore the realms of data.
 
-Skills 
+## Skills 
 Python
 SQL
 Excel
